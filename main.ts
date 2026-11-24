@@ -14,11 +14,14 @@
 // needs a birthday card sent to fridge mold. Three beats escalate
 // (photograph -> name after a relative -> text a birthday card), and the
 // twist lands in the last words: "neglect deserves a community". Two
-// concrete pictures collide (a family relative, a mold colony); nothing
-// is explained; the setup:punchline ratio is about 30:5 words. Nothing
+// concrete pictures collide — a family relative and a mold colony —
+// and nothing is explained; the setup:punchline ratio is about 30:5 words. Nothing
 // in the field says this: the leaderboard is blind with 0 visible
 // entries, and a verbatim web search for "neglect deserves a community"
 // returns 0 hits.
+//
+// Gate: 211 of 240 characters used, so the whole pitch fits on one line
+// with room to spare — the escalation stays tight instead of sprawling.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
